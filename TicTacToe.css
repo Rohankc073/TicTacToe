@@ -9,8 +9,9 @@
     text-align: center;
   }
   
+/* Hi ther are some changes in this page 
+ */
   .container {
-    
     height: 70vh;
     display: flex;
     justify-content: center;
@@ -73,3 +74,5 @@
   .hide {
     display: none;
   }
+
+  /* More changes  */
